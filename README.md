@@ -1,4 +1,4 @@
-# 💻 Arthur Piloto
+# 💻 Arthur Cunha
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Bem-vindo!&fontSize=70" width="100%" />
