@@ -5,7 +5,7 @@
 </div>
 
 ### 👋 Olá!
-Me chamo **Arthur Piloto**, tenho 18 anos e sou estudante de **Engenharia de Computação** no Senai Cimatec, em Salvador - BA. Apaixonado por tecnologia e em constante aprendizado para construir soluções eficientes.
+Me chamo **Arthur Cunha**, sou estudante de **Engenharia da Computação** no Senai Cimatec, em Salvador - BA. Busco me desenvolver, aprender e aperfeiçoar minhas habilidades relacionadas ao desenvolvimento e programação inteligente.
 
 ---
 
