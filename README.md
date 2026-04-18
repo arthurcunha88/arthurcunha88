@@ -5,7 +5,7 @@
 </div>
 
 ### 👋 Olá!
-Me chamo **Arthur Cunha**, sou estudante de **Engenharia da Computação** no Senai Cimatec, em Salvador - BA. Busco me desenvolver, aprender e aperfeiçoar minhas habilidades relacionadas ao desenvolvimento e programação inteligente.
+Me chamo **Arthur Cunha**, sou estudante de **Engenharia da Computação** no Senai Cimatec, em Salvador - BA. Busco me desenvolver, aprender e aperfeiçoar minhas habilidades relacionadas ao desenvolvimento de códigos em diferentes linguagens de programação, de forma profissional e inteligente.
 
 ---
 
