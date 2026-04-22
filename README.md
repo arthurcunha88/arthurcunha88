@@ -10,7 +10,7 @@ Me chamo **Arthur Cunha**, sou estudante de **Engenharia da Computação** no Se
 ---
 
 ### 🚀 Tecnologias & Ferramentas
-Aqui estão algumas das tecnologias com as quais trabalho:
+Aqui estão algumas das linguagens com as quais trabalho:
 
 <div style="display: inline_block">
   <img align="center" alt="Python" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
