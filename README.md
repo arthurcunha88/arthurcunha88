@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00D4FF&height=200&section=header&text=Arthur%20Cunha&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Engenharia%20da%20Computação%20·%20Dev%20Web%20·%20Salvador,%20BA&descAlignY=58&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00D4FF&height=200&section=header&text=Arthur%20Cunha&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Engenharia%20da%20Computação%20·%20Web%20Dev%20·%20Salvador,%20BA&descAlignY=58&descSize=16" width="100%" />
 </div>
 
 <br/>
 
-## 👋 Olá, mundo!
+## Muito prazer!
 
 Me chamo **Arthur Cunha**, estudante de **Engenharia da Computação** no **SENAI CIMATEC**, em Salvador - BA. Apaixonado por desenvolvimento web, construo interfaces modernas no front e APIs robustas no back. Sempre em busca de aprender algo novo e escrever código limpo e inteligente.
 
